@@ -1,0 +1,13 @@
+Server
+
+Attributes
+- name = "Elizabeth"
+- age = 20
+- hours_worked = 10
+- duties = ["take orders", "check in on customers", "get payment"]
+
+Methods
+set_name: = "Lisa"
+promote: duties = ["set shifts", "fill in", "pay employees"]
+get_duties: ["take orders", "check in on customers", "get payment"]
+add_hours(20): hours_worked + 20

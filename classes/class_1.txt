@@ -1,0 +1,13 @@
+class Manager
+
+Attributes
+- name (string)
+- salaray (float)
+- hours_worked (integer)
+- duties (array)
+
+Methods
+- set_name (sets employee's name : modifies name)
+- work_shift (changes hours_worked)
+- promote (changes duties and salary)
+- get_payment (uses salary)

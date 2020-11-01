@@ -1,0 +1,14 @@
+Timothy
+
+Attributes
+- name = Timothy
+- salaray = 25000.00
+- hours_worked = 42
+- duties = ["set schedules", "pay employees", "fill in"]
+
+Methods
+- set_name: name = Tim
+- work_shift(12): hours_worked += 12
+- promote: duties = ["hire employee", "delegate tasks", "come up with marketing plan"]
+           salary += 10000
+- get_hours: returns hours_worked 

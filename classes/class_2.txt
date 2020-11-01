@@ -1,0 +1,13 @@
+class Server
+
+Attributes
+- hours_worked (float)
+- name (string)
+- duties (array)
+- age (integer)
+
+Methods
+- set_name: (modifies name attribute)
+- get_duties: (lists duties using duties array)
+- add_hours: (adds hours to hours_worked attribute)
+- promote: (changes duties)
